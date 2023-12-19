@@ -36,5 +36,5 @@ public class Calculatrice {
         public static double division(double a, double b) {
         return a / b;
     }
-
+   // modif test pour git
 }
