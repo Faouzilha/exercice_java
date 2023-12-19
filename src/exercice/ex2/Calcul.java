@@ -1,4 +1,4 @@
-package ex2;
+package exercice.ex2;
 
 // Écrire un programme en Java qui permet de calculer la somme S=1+2+3+...+10. Utilisant la boucle for.
 public class Calcul {

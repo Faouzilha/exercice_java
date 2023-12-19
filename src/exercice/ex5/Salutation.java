@@ -1,4 +1,4 @@
-package ex5;
+package exercice.ex5;
 
 // Écrivez un programme Java qui demande son nom à l’utilisateur et qui affiche «Bonjour» à 
 // l'écran et le nom sur une ligne distincte.

@@ -1,4 +1,4 @@
-package ex6;
+package exercice.ex6;
 
 import java.util.Scanner;
 

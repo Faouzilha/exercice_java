@@ -1,4 +1,4 @@
-package exo3;
+package exercice.exo3;
 
 import java.util.Scanner;
 
